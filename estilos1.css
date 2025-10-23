@@ -1,0 +1,47 @@
+body{
+    background:rgb(0, 0, 0) ;
+}
+h2{
+    font-size: 2cm;
+}
+h2{
+    color: rgb(107, 23, 23);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h4{
+    font-size: 1cm;
+}
+h4{
+    color: rgb(107, 23, 23);
+}
+h1{
+    font-size: 1cm;
+}
+h1{
+    color: rgb(107, 23, 23);
+}
+th{
+    color: rgb(255, 255, 255);
+}
+label{
+    color: rgb(255, 255, 255);
+}
+input{
+    color: rgb(255, 255, 255);
+}
+input{
+    color: rgb(0, 0, 0);
+}
+/*cajas*/
+h1, h2, h3, h4, p, div{
+   background-color:rgb(176, 127, 255);
+}
+div{
+  width: auto;
+  height:40px;
+  margin: 15px 30px;
+  padding: 10px darkgrey;
+}
